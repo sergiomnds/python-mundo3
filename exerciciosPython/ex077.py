@@ -4,3 +4,9 @@
 
 listaPalavras = ('APRENDER', 'PROGRAMAR', 'LINGUAGEM', 'PYTHON', 'CURSO',
     'GRATIS', 'ESTUDAR', 'PRATICAR', 'TRABALHAR', 'MERCADO', 'PROGRAMADOR')
+
+for c in listaPalavras:
+    print(f'\n{c} tem as vogais: ', end='')
+    for letra in c:
+        if letra.upper() in 'AEIOU':
+            print(letra, end=' ')

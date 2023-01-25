@@ -25,14 +25,16 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
     - Em que posição foi digitado o primeiro valor 3.
     - Quais foram os números pares.
 - [X] Uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
-- [ ] Programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+- [X] Programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 
 <h3>📷 Galeria</h3>
 
 <h2>Listas em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
-    
+
+- [X] Leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+
 <h3>📷 Galeria</h3>
 
 <h2>Dicionários em Python</h2>
