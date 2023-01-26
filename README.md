@@ -35,6 +35,12 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 - [X] Leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 - [X] Programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+- [X] Programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:
+    - Quantos números foram digitados.
+    - A lista de valores, ordenada de forma decrescente.
+    - Se o valor 5 foi digitado e está ou não na lista.
+- [X] Programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados,respectivamente. Ao final, mostre o conteúdo das três listas geradas.
+- [X] Programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
 <h3>📷 Galeria</h3>
 
