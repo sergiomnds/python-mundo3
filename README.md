@@ -34,6 +34,7 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 <h3>🎯 Desafios Propostos:</h3>
 
 - [X] Leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+- [X] Programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
 <h3>📷 Galeria</h3>
 
