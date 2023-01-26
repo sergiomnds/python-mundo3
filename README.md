@@ -9,7 +9,7 @@ Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exe
 
 Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python-mundo1) e [Mundo 2](https://github.com/sergiomnds/python-mundo2)!
 
-<h2>Tuplas</h2>
+<h2>📋 Tuplas</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
@@ -29,7 +29,7 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-<h2>Listas em Python</h2>
+<h2>📑 Listas em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
@@ -37,25 +37,25 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-<h2>Dicionários em Python</h2>
+<h2>📚 Dicionários em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
 <h3>📷 Galeria</h3>
 
-<h2>Funções em Python</h2>
+<h2>✍ Funções em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
 <h3>📷 Galeria</h3>
 
-<h2>Modularização em Python</h2>
+<h2>🧩 Modularização em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
 <h3>📷 Galeria</h3>
 
-<h2>Tratamento de Erros em Python</h2>
+<h2>⁉ Tratamento de Erros em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
