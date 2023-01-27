@@ -29,6 +29,11 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
+![image](https://user-images.githubusercontent.com/85349959/215135313-a0f9544f-b1b9-421a-9818-ec839f6408dc.png)
+![image](https://user-images.githubusercontent.com/85349959/215135677-f56353a1-a498-4321-8ddd-2bef2307ab50.png)
+![image](https://user-images.githubusercontent.com/85349959/215135833-132d90ce-561d-4570-9801-e7559cec889a.png)
+![image](https://user-images.githubusercontent.com/85349959/215136088-b124e59a-bd96-439c-a899-71d0f053d030.png)
+
 <h2>📑 Listas em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
