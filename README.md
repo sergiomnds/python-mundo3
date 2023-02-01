@@ -61,6 +61,12 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
+![image](https://user-images.githubusercontent.com/85349959/215927761-d0156483-324a-42c5-bcd1-9a43554b9eea.png)
+![image](https://user-images.githubusercontent.com/85349959/215928000-6db199bf-4d48-499e-8325-553245f845a1.png)
+![image](https://user-images.githubusercontent.com/85349959/215928069-82ae6926-a29d-4f9e-aa17-dae9090cee1b.png)
+![image](https://user-images.githubusercontent.com/85349959/215928156-03eed2a5-29d3-4a76-90fb-99f6a7f27335.png)
+
+
 <h2>📚 Dicionários em Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
