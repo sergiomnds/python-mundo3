@@ -46,6 +46,18 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
     - Se o valor 5 foi digitado e está ou não na lista.
 - [X] Programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados,respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 - [X] Programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+- [X] Programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+    - Quantas pessoas foram cadastradas.
+    - Uma listagem com as pessoas mais pesadas.
+    - Uma listagem com as pessoas mais leves.
+- [X] Programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
+- [X] Programa que declare uma matriz de dimensão 3×3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
+- [X] Aprimore o desafio anterior, mostrando no final:
+    - A soma de todos os valores pares digitados.
+    - A soma dos valores da terceira coluna.
+    - O maior valor da segunda linha.
+- [X] Programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+- [X] Programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
 <h3>📷 Galeria</h3>
 
