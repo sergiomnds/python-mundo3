@@ -12,8 +12,8 @@ totalIdade = 0
 mulheres = []
 listaAcimaMedia = []
 while True:
-    pessoa['Nome'] = str(input('Nome da Pessoa: '))
-    pessoa['Sexo'] = str(input('Sexo (M ou F): ')).upper()
+    pessoa['Nome'] = str(input('Nome da Pessoa: ')).upper()
+    pessoa['Sexo'] = str(input('Sexo (M ou F): ')).upper()[0]
     pessoa['Idade'] = int(input(f'Idade de {pessoa["Nome"]}: '))
     totalIdade += pessoa['Idade']
     listaPessoas.append(pessoa.copy())
@@ -26,12 +26,18 @@ while True:
         break
 
 media = totalIdade / len(listaPessoas)
-   
+
+print('='*20)
 print(f'Qnt. de pessoas cadastradas: {len(listaPessoas)}')
 print(f'Média de Idade: {media}')
 print('As mulheres são: ',end='')
 for k, m in enumerate(mulheres):
-    if k == len(mulheres):
+    if k == (len(mulheres)) - 1:
         print(m)
     else:
-        print(m, end='')
+        print(m, end=', ')
+print('As pessoas que estão acima da média são: ')
+for p in listaPessoas:
+    if p['Idade'] > media:
+        print(f'{p["Nome"]} com {p["Idade"]} anos')
+   
