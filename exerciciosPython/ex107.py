@@ -1,4 +1,4 @@
-import moeda
+from utilidadesCeV import moeda
 
 valor = float(input('Digite o valor: '))
 print(f'Aumetando 10% de R${valor} temos R${moeda.aumentar(valor)}')

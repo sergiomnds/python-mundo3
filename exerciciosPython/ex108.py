@@ -2,7 +2,7 @@
 Adapte o código do desafio #107, criando uma função adicional chamada moeda()
 que consiga mostrar os números como um valor monetário formatado.
 '''
-import moeda
+from utilidadesCeV import moeda
 
 valor = float(input('Digite o valor: '))
 print(f'Aumetando 10% de R${moeda.moeda(valor)} temos R${moeda.moeda(moeda.aumentar(valor))}')
