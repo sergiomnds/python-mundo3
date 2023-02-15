@@ -12,7 +12,7 @@ def notas(*nota, situacao = False):
     dictNotas['Qnt. de Notas'] = len(nota)
     dictNotas['Maior Nota'] = max(nota)
     dictNotas['Menor Nota'] = min(nota)
-    dictNotas['Médita da Nota'] = sum(nota) / len(nota)
+    dictNotas['Médita da Nota'] = round(sum(nota) / len(nota), 1)
     if situacao:
         if dictNotas['Médita da Nota'] < 6:
             dictNotas['Situação'] = 'RUIM'
@@ -20,5 +20,7 @@ def notas(*nota, situacao = False):
             dictNotas['Situação'] = 'RAZOÁVEL'
         else:
             dictNotas['Situação'] = 'BOA'
-
-notas(5.5, 3, 4)
+    print(dictNotas)
+    
+notas(5.5, 3, 10, situacao=True)
+notas(9, 12, 5)
