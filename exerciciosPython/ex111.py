@@ -3,3 +3,7 @@ Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados m
 Transfira todas as funções utilizadas nos desafios 107, 108 e 109
 para o primeiro pacote e mantenha tudo funcionando
 '''
+from utilidadesCeV import dado, moeda
+
+#! NÃO EXISTE CÓDIGO ESPECÍFICO PARA ESSE EXERCÍCIO,
+#! É APENAS PARA CRIAR O PACOTE E ADAPTAR OS CÓDIGOS DOS OUTROS EXERCÍCIOS
