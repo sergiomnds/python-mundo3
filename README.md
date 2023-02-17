@@ -84,7 +84,10 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-
+![image](https://user-images.githubusercontent.com/85349959/219516237-060cbb01-a5bd-47a2-815b-ca180145440e.png)
+![image](https://user-images.githubusercontent.com/85349959/219516314-06c560ff-907c-48bf-aa6e-894bc2a45088.png)
+![image](https://user-images.githubusercontent.com/85349959/219516464-83fec38c-1e97-4aa4-a148-2db9dcd06c02.png)
+![image](https://user-images.githubusercontent.com/85349959/219516538-0c51c891-7eac-414c-a0da-a24489bfb093.png)
 
 <h2>✍ Funções em Python</h2>
 
@@ -112,7 +115,10 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-
+![image](https://user-images.githubusercontent.com/85349959/219516987-4d582fde-9b4d-4ed2-993e-05c303877318.png)
+![image](https://user-images.githubusercontent.com/85349959/219517023-755f3807-54c5-45f5-b6df-248417744111.png)
+![image](https://user-images.githubusercontent.com/85349959/219517064-dc7572e9-75ed-4e8c-bfc5-2bcd2866cdf8.png)
+![image](https://user-images.githubusercontent.com/85349959/219517134-6f25f70c-f873-4c59-805a-dc54a397d59c.png)
 
 <h2>🧩 Modularização em Python</h2>
 
@@ -127,7 +133,10 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-
+![image](https://user-images.githubusercontent.com/85349959/219517413-c1637afb-3908-4c9e-9e26-9df153d20be5.png)
+![image](https://user-images.githubusercontent.com/85349959/219517430-246d1457-5f64-4c7a-9b16-0216ccdc2cfb.png)
+![image](https://user-images.githubusercontent.com/85349959/219517731-33026a51-059c-4017-9709-c820ffa0f74f.png)
+![image](https://user-images.githubusercontent.com/85349959/219517564-6d2adcf9-12cd-4de1-9b62-79e8385ade04.png)
 
 <h2>⁉ Tratamento de Erros em Python</h2>
 
@@ -139,4 +148,7 @@ Confira também o repositório do [Mundo 1](https://github.com/sergiomnds/python
 
 <h3>📷 Galeria</h3>
 
-
+![image](https://user-images.githubusercontent.com/85349959/219517611-ac177fee-bb7b-4416-8920-60396370d3a7.png)
+![image](https://user-images.githubusercontent.com/85349959/219517630-f0f63d03-6f60-46c4-a2d2-b99be376adf2.png)
+![image](https://user-images.githubusercontent.com/85349959/219518083-e578bca6-0b61-4d9a-b3e1-5d2462a8d411.png)
+![image](https://user-images.githubusercontent.com/85349959/219518422-aa13fbc5-782e-480c-b615-85d1d8bd1f49.png)
